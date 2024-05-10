@@ -81,7 +81,7 @@
 #### Frontend Development
 - React.js
 - Vue.js
-- HTML5, CSS3, JavaScript, jQuery, Three.js
+- HTML5, CSS3, JavaScript, jQuery, Three.js, Web3
 
 #### Backend Development
 - Java, Spring Boot
