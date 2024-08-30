@@ -5,7 +5,6 @@
 - VR/AR/XR development
 - Ethereum/Solidity, Solana/rust, Blockchain NFT
 
-
 <details>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
@@ -15,8 +14,6 @@
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-      <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-      <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
       <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="#"><img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white"></a>
@@ -77,38 +74,33 @@
   </p>
 </details>
 
-
 #### Frontend Development
-- React.js
+
+- React.js / Next.js
 - Vue.js
+- Angular.js
 - HTML5, CSS3, JavaScript, jQuery, Three.js, Web3
 
 #### Backend Development
+
 - Java, Spring Boot
 - TypeScript, Node.js, Express.JS
-- C#, .NET, .NET Core, ASP.NET, Entity Framework
 - PHP, Laravel Framework
 - Python, Django, Flask
 
-#### Mobile Development
-- Android Java/Kotlin
-- Dart, Flutter
-- React Native
-
-#### Game Development
-- WebGL, Three.js
-- C#, Unity3D
 
 #### Blockchain Development
+
 - Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
 - DAO, DEX, AMM, Yield Farming, Staking dApps
 - Smart contract development & unit test
 - NFT marketplace, NFT minting
 - CEX Trading Bot (Crypto Exchange APIs, CCXT library)
-- DeFi Trading Bot (Flashloan Arbitrage Bot, DEX Sniper Bot, DEX Sandwich Bot) 
+- DeFi Trading Bot (Flashloan Arbitrage Bot, DEX Sniper Bot, DEX Sandwich Bot)
 - NFT mint bot, Opensea sniper bot, Opensea offer bot
 
 #### AI & ML
+
 - Tensor flow
 - Pandas
 - Numpy
